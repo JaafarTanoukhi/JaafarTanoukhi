@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/Sakura_Nene_CPP.jpg" width="55%" align="left" />
+  <img src="images/Sakura_Nene_CPP.jpg" width="55%" align="right" />
   <br><br>
   💻 I love working with C++ on <strong>compilers</strong>, <strong>game engines</strong>, and everything in between.
   <br><br>
