@@ -7,5 +7,7 @@
   <br><br>
   📔 I enjoy <strong>The Art of Computer Science</strong> by our lord and savior <strong>Donald Knuth</strong>
   <br><br>
-  Known for rarely finishing my cool projects.
+  <i>
+  Known for rarely finishing my cool projects.  
+  </i>
 </div>
